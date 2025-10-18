@@ -1,0 +1,53 @@
+{
+  "app": {
+    "title": "Word Guessing - Charades",
+    "subtitle": "Select a category to begin"
+  },
+  "settings": {
+    "title": "Settings",
+    "language": "Language",
+    "motionGestures": "Motion Gestures",
+    "cache": "Cache",
+    "tapToClose": "Tap outside to close",
+    "gameDuration": "Game Duration:",
+    "maxWords": "Max Words:",
+    "unlimited": "∞ Unlimited",
+    "all": "All",
+    "seconds": "s",
+    "words": "words",
+    "rotateDevice": "📱 Remember to rotate your device to landscape mode!"
+  },
+  "gameplay": {
+    "correct": "CORRECT",
+    "skip": "SKIP",
+    "stop": "Stop",
+    "feedbackCorrect": "Correct!",
+    "feedbackSkipped": "Skipped"
+  },
+  "countdown": {
+    "go": "GO!",
+    "instruction": "Tap LEFT side (green) for correct ✅\nTap RIGHT side (red) to skip ⏭️",
+    "enableMotion": "Enable Motion Gestures"
+  },
+  "warning": {
+    "rotateDevice": "Rotate Device",
+    "landscapeRequired": "This game requires landscape mode. Please rotate your device to continue.",
+    "backToMenu": "Back to Menu"
+  },
+  "results": {
+    "allComplete": "🎉 All Words Complete!",
+    "gameOver": "⏱️ Game Over!",
+    "playedWords": "Played {{count}} out of {{total}} words",
+    "correct": "✅ Correct",
+    "skipped": "⏭️ Skipped",
+    "accuracy": "🎯 Accuracy",
+    "playAgain": "🔄 Play Again",
+    "mainMenu": "🏠 Main Menu"
+  },
+  "cache": {
+    "clearCache": "Clear Cache",
+    "cacheCleared": "Cache cleared! Reloading...",
+    "offline": "Offline Mode",
+    "clearError": "Failed to clear cache. Please try again."
+  }
+}

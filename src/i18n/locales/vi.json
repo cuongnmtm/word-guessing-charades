@@ -1,0 +1,53 @@
+{
+  "app": {
+    "title": "Đoán Từ - Charades",
+    "subtitle": "Chọn danh mục để bắt đầu"
+  },
+  "settings": {
+    "title": "Cài Đặt",
+    "language": "Ngôn Ngữ",
+    "motionGestures": "Cử Chỉ Chuyển Động",
+    "cache": "Bộ Nhớ Đệm",
+    "tapToClose": "Nhấn bên ngoài để đóng",
+    "gameDuration": "Thời Gian Chơi:",
+    "maxWords": "Số Từ Tối Đa:",
+    "unlimited": "∞ Không Giới Hạn",
+    "all": "Tất Cả",
+    "seconds": "s",
+    "words": "từ",
+    "rotateDevice": "📱 Hãy xoay thiết bị sang chế độ ngang!"
+  },
+  "gameplay": {
+    "correct": "ĐÚNG",
+    "skip": "BỎ QUA",
+    "stop": "Dừng",
+    "feedbackCorrect": "Đúng rồi!",
+    "feedbackSkipped": "Đã bỏ qua"
+  },
+  "countdown": {
+    "go": "BẮT ĐẦU!",
+    "instruction": "Chạm BÊN TRÁI (xanh) để đúng ✅\nChạm BÊN PHẢI (đỏ) để bỏ qua ⏭️",
+    "enableMotion": "Bật Cử Chỉ Chuyển Động"
+  },
+  "warning": {
+    "rotateDevice": "Xoay Thiết Bị",
+    "landscapeRequired": "Trò chơi này yêu cầu chế độ ngang. Vui lòng xoay thiết bị của bạn để tiếp tục.",
+    "backToMenu": "Quay Lại Menu"
+  },
+  "results": {
+    "allComplete": "🎉 Hoàn Thành Tất Cả!",
+    "gameOver": "⏱️ Hết Giờ!",
+    "playedWords": "Đã chơi {{count}} trên {{total}} từ",
+    "correct": "✅ Đúng",
+    "skipped": "⏭️ Bỏ Qua",
+    "accuracy": "🎯 Độ Chính Xác",
+    "playAgain": "🔄 Chơi Lại",
+    "mainMenu": "🏠 Trang Chủ"
+  },
+  "cache": {
+    "clearCache": "Xóa Bộ Nhớ Đệm",
+    "cacheCleared": "Đã xóa bộ nhớ đệm! Đang tải lại...",
+    "offline": "Chế Độ Ngoại Tuyến",
+    "clearError": "Không thể xóa bộ nhớ đệm. Vui lòng thử lại."
+  }
+}
